@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
+  <version>v1.5.0</version>
+  <url>http://aubonbeurre.github.com/abbvideos/ABBVideos.air</url>
+  <description><![CDATA[
+v1.5.0
+  * Cosmetic negative size
+v1.4.9
+  * Fix multi-fragments delete
+v1.4.8
+  * Add support for multi-fragments movies
+v1.4.7
+  * Flex 4.1
+v1.4.6
+  * AppleTV/HDTV
+v1.4.5
+  * Better filename handling.
+v1.4.4
+  * Fix total size.
+  * Fix Browse
+v1.4.3
+  * Better progress status/report.
+v1.4.2
+  * More fixes.
+v1.4.1
+  * Fix out of memory problem.
+  * Add Browse (s3browse.com)
+v1.3.1
+  * Add remove button
+v1.3
+  * Cache thumbnails and description in the app storage.
+  * Fixes
+v1.2
+  * Fix the download queue length
+v1.1
+  * Bug fixing
+  ]]></description>
+</update>
