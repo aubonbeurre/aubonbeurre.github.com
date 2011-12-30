@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <update xmlns="http://ns.adobe.com/air/framework/update/description/1.0">
-  <version>1.5.1</version>
+  <version>1.5.2</version>
   <url>http://aubonbeurre.github.com/abbvideos/ABBVideos.air</url>
   <description><![CDATA[
+v1.5.2
+  * Save AWS credentials login
 v1.5.1
   * Add AWS credentials login
 v1.5.0
